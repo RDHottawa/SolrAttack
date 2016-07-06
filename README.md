@@ -1,0 +1,2 @@
+# SolrAttack
+repo for hackathon
